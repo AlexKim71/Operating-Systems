@@ -2,7 +2,10 @@
 ### [National University "Odesa Polytechnic"](https://op.edu.ua/)
 **📅 Timeline:** 1 course 2 semester  
 **🎯 Major:** Computer Science | 122  
-**👨🏻‍🏫 Teacher: [Blazhko Oleksandr Anatoliyovych](https://op.edu.ua/staff/4497767)**  
+**👨🏻‍🏫 Teacher:** [Blazhko Oleksandr Anatoliyovych](https://op.edu.ua/staff/4497767)
+<br>
+**🏢 Organisation:** [OS SI](https://github.com/OS-IS) 
+
 
 #### Relevant Coursework:
 | Course | Semester | Credits | Key Topics | Projects |
