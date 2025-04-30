@@ -20,7 +20,8 @@
 | **Удалённые серверы** | `SSH` `Ansible` `Terraform` `Nginx` `Apache`                           | ![SSH](https://img.shields.io/badge/SSH-53A1D3?logo=ssh) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform) |
 | **Виртуальная реальность** | `OpenXR` `Unity` `Unreal Engine` `WebXR`                            | ![OpenXR](https://img.shields.io/badge/OpenXR-FF3C00?logo=openxr) ![Unreal](https://img.shields.io/badge/Unreal-0E1128?logo=unreal-engine) |
 | **Мониторинг**       | `Prometheus` `Grafana` `ELK Stack` `Zabbix`                              | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana) |
-
+| **Shell & Терминал** | `Bash` `Zsh` `Fish` `PowerShell` `Tmux`                                   | ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell) |
+| **Терминальные утилиты** | `vim` `nano` `htop` `curl` `jq` `grep`                              | ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim) ![Curl](https://img.shields.io/badge/Curl-073551?logo=curl) |
 ### 🚀 Деплой-пример через GitHub Actions
 ```yaml
 name: Deploy to AWS
