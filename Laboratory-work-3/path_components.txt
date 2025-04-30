@@ -1,0 +1,15 @@
+bin
+core_perl
+default
+exports
+flatpak
+jvm
+lib
+local
+sbin
+site_perl
+snap
+snapd
+usr
+var
+vendor_perl
