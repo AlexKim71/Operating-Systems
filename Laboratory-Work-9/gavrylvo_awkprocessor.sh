@@ -1,3 +1,0 @@
-#!/bin/bash
-
-awk 'NR==5 {print \$1, \$2}' /path/to/datafile
