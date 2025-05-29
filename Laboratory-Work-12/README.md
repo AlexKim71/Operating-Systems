@@ -1,5 +1,6 @@
 ## «Етапи компіляції С-програм та автоматизація побудови С-програм»
 ![image](https://github.com/user-attachments/assets/87fe6468-b7cf-4c85-bd4a-a7e7cd96193e)
+![1](./lab12images/1.png)
 Рис. 1 - "2.1.1 Якщо робота виконується на локальній віртуальній машині (локальна ОС
 Linux), тоді встановити в ОС Linux програмний пакунок libpq-dev."
 ![image](https://github.com/user-attachments/assets/1a3820cb-1b51-4b61-847f-28f89ded3499)
